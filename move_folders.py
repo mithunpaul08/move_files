@@ -1,6 +1,7 @@
 import os
 import subprocess
 import argparse
+import sys
 
 
 def create_parser():
@@ -50,9 +51,12 @@ if __name__=="__main__":
     for each_pos_file in list_of_files_in_input_folder:
         full_path=os.path.join(folder_to_read_from,each_pos_file)
         each_pos_file_split=each_pos_file.split("_")
-        data_id_predtags=each_pos_file_split[4]
-        data_id_predtags_split=data_id_predtags.split(".")
-        data_id=data_id_predtags_split[0]
+
+        #data_id_predtags=each_pos_file_split[4]
+        #data_id_predtags_split=data_id_predtags.split(".")
+        data_id=each_pos_file_split[4]
+        print(data_id)
+        sys.exit(1)
 
         if int(data_id) in list_of_skipped_files:
             print("found in list")
