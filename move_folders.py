@@ -2,7 +2,13 @@ import os
 import subprocess
 import argparse
 import sys
+import logging
+import traceback
 
+
+logging.basicConfig(filename='merging_sstag_smartnertag.log',filemode='w+')
+LOG = logging.getLogger('main')
+LOG.setLevel(logging.INFO)
 
 def create_parser():
     parser = argparse.ArgumentParser(description='Pg')
@@ -49,18 +55,55 @@ if __name__=="__main__":
     list_of_files_in_input_folder=os.listdir(folder_to_read_from)
     files_moved=0
     for each_pos_file in list_of_files_in_input_folder:
-        full_path=os.path.join(folder_to_read_from,each_pos_file)
-        each_pos_file_split=each_pos_file.split("_")
 
-        #data_id_predtags=each_pos_file_split[4]
-        #data_id_predtags_split=data_id_predtags.split(".")
-        data_id=each_pos_file_split[4]
+        try:
+            full_path=os.path.join(folder_to_read_from,each_pos_file)
+            each_pos_file_split=each_pos_file.split("_")
 
-        if int(data_id) in list_of_skipped_files:
-            print("found in list")
-            print(f"dataid:{data_id}")
-            subprocess.call(["cp",full_path,folder_to_move_files_to])
-            files_moved=files_moved+1
+            #data_id_predtags=each_pos_file_split[4]
+            #data_id_predtags_split=data_id_predtags.split(".")
+            data_id=each_pos_file_split[4]
+
+            if int(data_id) in list_of_skipped_files:
+                print("found in list")
+                print(f"dataid:{data_id}")
+                subprocess.call(["cp",full_path,folder_to_move_files_to])
+                files_moved=files_moved+1
+
+
+        except IOError:
+
+            LOG.error('An error occured trying to read the file.')
+
+            LOG.error(f"value of current datapoint is {each_pos_file}")
+
+            traceback.print_exc()
+
+            continue
+
+
+        except IndexError:
+
+            LOG.error('An index was out of range.')
+
+            LOG.error(f"value of current datapoint is {each_pos_file}")
+
+            traceback.print_exc()
+
+            continue
+    
+        except:
+
+            LOG.error('An error which wasnt explicity caught occured.')
+
+            LOG.error(f"value of current datapoint is {each_pos_file}")
+
+            LOG.error(f"value of index  is {index}")
+
+            traceback.print_exc()
+
+            continue
+
     print(f"total files moved:{files_moved}")
 
 
