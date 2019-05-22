@@ -1,0 +1,9 @@
+1	Indian	indian	JJ	O	0			
+2	civil	civil	JJ	B-PERSON	0		PERSON	
+3	servant	servant	NN	Ī	2	_		
+4	sacked	sack	VBN	O-possession	0		possession	
+5	`	`	``	O	0			
+6	after	after	IN	O	0			
+7	24-year	24-year	JJ	O	0			
+8	sickie	sickie	NN	O-ARTIFACT	0		ARTIFACT	
+9	'	'	''	O	0			

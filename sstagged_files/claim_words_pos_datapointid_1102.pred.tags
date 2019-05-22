@@ -1,0 +1,14 @@
+1	ISIS	isis	NNS	O-GROUP	0		GROUP	
+2	militants	militant	NNS	O-PERSON	0		PERSON	
+3	appear	appear	VBP	O-cognition	0		cognition	
+4	to	to	TO	O	0			
+5	behead	behead	VB	O-stative	0		stative	
+6	abducted	abducted	NN	O	0			
+7	American	american	JJ	O	0			
+8	journalist	journalist	NN	O-PERSON	0		PERSON	
+9	James	james	NNP	B-PERSON	0		PERSON	
+10	Wright	wright	NNP	Ī	9	_		
+11	Foley	foley	NNP	Ī	10	_		
+12	in	in	IN	O	0			
+13	graphic	graphic	JJ	O	0			
+14	video	video	NN	O-COGNITION	0		COGNITION	

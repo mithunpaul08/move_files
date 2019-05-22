@@ -1,0 +1,1791 @@
+1	President	president	NNP	B-GROUP	0		GROUP	
+2	Obama	obama	NNP	Ī	1	_		
+3	said	say	VBD	O-communication	0		communication	
+4	Wednesday	wednesday	NNP	O-TIME	0		TIME	
+5	that	that	IN	O	0			
+6	the	the	DT	O	0			
+7	United	united	NNP	B-GROUP	0		GROUP	
+8	States	states	NNPS	Ī	7	_		
+9	``	``	``	O	0			
+10	will	will	MD	O	0			
+11	be	be	VB	O-stative	0		stative	
+12	vigilant	vigilant	JJ	O	0			
+13	and	and	CC	O	0			
+14	we	we	PRP	O	0			
+15	will	will	MD	O	0			
+16	be	be	VB	O-stative	0		stative	
+17	relentless	relentless	JJ	O	0			
+18	''	''	''	O	0			
+19	against	against	IN	O	0			
+20	Islamic	islamic	JJ	O	0			
+21	State	state	NN	O-GROUP	0		GROUP	
+22	militants	militant	NNS	O-PERSON	0		PERSON	
+23	and	and	CC	O	0			
+24	would	would	MD	O	0			
+25	``	``	``	O	0			
+26	do	do	VB	O-stative	0		stative	
+27	what	what	WP	O	0			
+28	'	'	''	O	0			
+29	s	s	VBZ	O-stative	0		stative	
+30	necessary	necessary	JJ	O	0			
+31	to	to	TO	O	0			
+32	see	see	VB	O-cognition	0		cognition	
+33	that	that	DT	O	0			
+34	justice	justice	NN	O-PERSON	0		PERSON	
+35	is	be	VBZ	O-`a	0		`a	
+36	done	do	VBN	O-stative	0		stative	
+37	''	''	''	O	0			
+38	following	follow	VBG	O-social	0		social	
+39	the	the	DT	O	0			
+40	videotaped	videotaped	JJ	O	0			
+41	execution	execution	NN	O-ACT	0		ACT	
+42	of	of	IN	O	0			
+43	an	an	DT	O	0			
+44	American	american	JJ	O	0			
+45	journalist	journalist	NN	O-PERSON	0		PERSON	
+46	.	.	.	O	0			
+1	``	``	``	O	0			
+2	Today	today	NN	O-TIME	0		TIME	
+3	the	the	DT	O	0			
+4	entire	entire	JJ	O	0			
+5	world	world	NN	O-COGNITION	0		COGNITION	
+6	is	be	VBZ	O-`a	0		`a	
+7	appalled	appal	VBN	O-cognition	0		cognition	
+8	at	at	IN	O	0			
+9	the	the	DT	O	0			
+10	brutal	brutal	JJ	O	0			
+11	murder	murder	NN	O-ACT	0		ACT	
+12	of	of	IN	O	0			
+13	James	james	NNP	B-PERSON	0		PERSON	
+14	Foley	foley	NNP	Ī	13	_		
+15	by	by	IN	O	0			
+16	the	the	DT	O	0			
+17	terrorist	terrorist	JJ	O	0			
+18	group	group	NN	O-GROUP	0		GROUP	
+19	ISIL	isil	NNP	O-GROUP	0		GROUP	
+20	,	,	,	O	0			
+21	''	''	''	O	0			
+22	Obama	obama	NNP	O-PERSON	0		PERSON	
+23	said	say	VBD	O-communication	0		communication	
+24	,	,	,	O	0			
+25	using	use	VBG	O-social	0		social	
+26	one	one	CD	O	0			
+27	of	of	IN	O	0			
+28	several	several	JJ	O	0			
+29	acronyms	acronym	NNS	O-COMMUNICATION	0		COMMUNICATION	
+30	for	for	IN	O	0			
+31	the	the	DT	O	0			
+32	group	group	NN	O-GROUP	0		GROUP	
+33	.	.	.	O	0			
+1	The	the	DT	O	0			
+2	militants	militant	NNS	O-PERSON	0		PERSON	
+3	,	,	,	O	0			
+4	who	who	WP	O	0			
+5	posted	post	VBD	O-communication	0		communication	
+6	the	the	DT	O	0			
+7	video	video	NN	O-COMMUNICATION	0		COMMUNICATION	
+8	on	on	IN	O	0			
+9	YouTube	youtube	NNP	B-LOCATION	0		LOCATION	
+10	Tuesday	tuesday	NNP	Ī	9	_		
+11	,	,	,	O	0			
+12	said	say	VBD	O-communication	0		communication	
+13	Foley	foley	NNP	O-PERSON	0		PERSON	
+14	'	'	POS	O	0			
+15	s	s	NNS	B-PERSON	0		PERSON	
+16	killing	kill	VBG	Ī	15	_		
+17	was	be	VBD	O-stative	0		stative	
+18	in	in	IN	O	0			
+19	retaliation	retaliation	NN	O-ACT	0		ACT	
+20	for	for	IN	O	0			
+21	U.S.	u.s.	NNP	B-GROUP	0		GROUP	
+22	airstrikes	airstrikes	NNS	Ī	21	_		
+23	in	in	IN	O	0			
+24	Iraq	iraq	NNP	O-LOCATION	0		LOCATION	
+25	.	.	.	O	0			
+1	Obama	obama	NNP	O-PERSON	0		PERSON	
+2	,	,	,	O	0			
+3	who	who	WP	O	0			
+4	spoke	speak	VBD	O-communication	0		communication	
+5	Wednesday	wednesday	NNP	O-TIME	0		TIME	
+6	morning	morning	NN	O-TIME	0		TIME	
+7	to	to	TO	O	0			
+8	Foley	foley	NNP	O-PERSON	0		PERSON	
+9	'	'	POS	O	0			
+10	s	s	NNS	O-TIME	0		TIME	
+11	parents	parent	NNS	O-PERSON	0		PERSON	
+12	,	,	,	O	0			
+13	offered	offer	VBD	O-communication	0		communication	
+14	no	no	DT	O	0			
+15	new	new	JJ	O	0			
+16	policy	policy	NN	O-COGNITION	0		COGNITION	
+17	measures	measure	NNS	O-ACT	0		ACT	
+18	to	to	TO	O	0			
+19	confront	confront	VB	O-stative	0		stative	
+20	Islamic	islamic	JJ	O	0			
+21	State	state	NN	O-GROUP	0		GROUP	
+22	.	.	.	O	0			
+1	Referring	refer	VBG	O-communication	0		communication	
+2	to	to	TO	O	0			
+3	neighboring	neighbor	VBG	O-cognition	0		cognition	
+4	countries	country	NNS	O-GROUP	0		GROUP	
+5	and	and	CC	O	0			
+6	U.S.	u.s.	NNP	O-GROUP	0		GROUP	
+7	allies	allies	NNS	O-GROUP	0		GROUP	
+8	,	,	,	O	0			
+9	he	he	PRP	O	0			
+10	said	say	VBD	O-communication	0		communication	
+11	``	``	``	O	0			
+12	there	there	EX	O	0			
+13	has	have	VBZ	B-`a	0		`a	
+14	to	to	TO	Ī	13	_		
+15	be	be	VB	O-stative	0		stative	
+16	a	a	DT	O	0			
+17	common	common	JJ	B-COGNITION	0		COGNITION	
+18	effort	effort	NN	Ī	17	_		
+19	to	to	TO	O	0			
+20	extract	extract	VB	O-change	0		change	
+21	this	this	DT	O	0			
+22	cancer	cancer	NN	O-STATE	0		STATE	
+23	so	so	IN	O	0			
+24	that	that	IN	O	0			
+25	it	it	PRP	O	0			
+26	does	do	VBZ	O-`a	0		`a	
+27	not	not	RB	O	0			
+28	spread	spread	VBN	O-stative	0		stative	
+29	.	.	.	O	0			
+1	''	''	''	O	0			
+2	Asked	ask	VBD	O-communication	0		communication	
+3	whether	whether	IN	O	0			
+4	the	the	DT	O	0			
+5	United	united	NNP	B-GROUP	0		GROUP	
+6	States	states	NNPS	Ī	5	_		
+7	might	might	MD	O	0			
+8	consider	consider	VB	O-cognition	0		cognition	
+9	suspending	suspend	VBG	O-change	0		change	
+10	its	it	PRP$	O	0			
+11	airstrikes	airstrikes	NNS	O-FOOD	0		FOOD	
+12	,	,	,	O	0			
+13	one	one	CD	O	0			
+14	U.S.	u.s.	NNP	O-GROUP	0		GROUP	
+15	official	official	NN	O-PERSON	0		PERSON	
+16	said	say	VBD	O-communication	0		communication	
+17	the	the	DT	O	0			
+18	``	``	``	O	0			
+19	only	only	JJ	O	0			
+20	question	question	NN	O-COMMUNICATION	0		COMMUNICATION	
+21	is	be	VBZ	O-stative	0		stative	
+22	if	if	IN	O	0			
+23	we	we	PRP	O	0			
+24	do	do	VBP	O-stative	0		stative	
+25	more	more	JJR	O	0			
+26	.	.	.	O	0			
+1	''	''	''	O	0			
+2	Officials	official	NNS	O-PERSON	0		PERSON	
+3	said	say	VBD	O-communication	0		communication	
+4	that	that	IN	O	0			
+5	attacks	attack	NNS	O-ACT	0		ACT	
+6	against	against	IN	O	0			
+7	the	the	DT	O	0			
+8	Islamic	islamic	JJ	O	0			
+9	State	state	NN	O-GROUP	0		GROUP	
+10	would	would	MD	O	0			
+11	continue	continue	VB	O-stative	0		stative	
+12	in	in	IN	O	0			
+13	Iraq	iraq	NNP	O-LOCATION	0		LOCATION	
+14	under	under	IN	O	0			
+15	an	an	DT	O	0			
+16	authorization	authorization	NN	O-COMMUNICATION	0		COMMUNICATION	
+17	Obama	obama	NNP	O-PERSON	0		PERSON	
+18	signed	sign	VBD	O-social	0		social	
+19	early	early	RB	O	0			
+20	this	this	DT	O	0			
+21	month	month	NN	O-TIME	0		TIME	
+22	.	.	.	O	0			
+1	Obama	obama	NNP	O-PERSON	0		PERSON	
+2	could	could	MD	O	0			
+3	face	face	VB	B-emotion	0		emotion	
+4	pressure	pressure	NN	Ī	3	_		
+5	to	to	TO	O	0			
+6	escalate	escalate	VB	O-change	0		change	
+7	the	the	DT	O	0			
+8	air	air	NN	O-LOCATION	0		LOCATION	
+9	campaign	campaign	NN	O-ACT	0		ACT	
+10	in	in	IN	O	0			
+11	Iraq	iraq	NNP	O-LOCATION	0		LOCATION	
+12	and	and	CC	O	0			
+13	increase	increase	VB	O-change	0		change	
+14	support	support	NN	O-COGNITION	0		COGNITION	
+15	to	to	TO	O	0			
+16	U.S.-backed	u.s.-backed	JJ	O	0			
+17	rebels	rebel	NNS	O-PERSON	0		PERSON	
+18	in	in	IN	O	0			
+19	Syria	syria	NNP	O-LOCATION	0		LOCATION	
+20	who	who	WP	O	0			
+21	are	be	VBP	O-`a	0		`a	
+22	fighting	fight	VBG	O-social	0		social	
+23	against	against	IN	O	0			
+24	the	the	DT	O	0			
+25	Islamic	islamic	JJ	O	0			
+26	Front	front	NN	O-LOCATION	0		LOCATION	
+27	,	,	,	O	0			
+28	as	as	RB	B	0			
+29	well	well	RB	Ī	28	_		
+30	as	as	IN	Ī	29	_		
+31	Syrian	syrian	JJ	O	0			
+32	President	president	NNP	B-GROUP	0		GROUP	
+33	Bashar	bashar	NNP	Ī	32	_		
+34	al-Assad	al-assad	NNP	Ī	33	_		
+35	.	.	.	O	0			
+1	Obama	obama	NNP	O-PERSON	0		PERSON	
+2	has	have	VBZ	O-`a	0		`a	
+3	resisted	resist	VBN	O-stative	0		stative	
+4	pleas	plea	NNS	O-COMMUNICATION	0		COMMUNICATION	
+5	from	from	IN	O	0			
+6	the	the	DT	O	0			
+7	Syrian	syrian	JJ	O	0			
+8	rebels	rebel	NNS	O-PERSON	0		PERSON	
+9	for	for	IN	O	0			
+10	U.S.	u.s.	NNP	O-LOCATION	0		LOCATION	
+11	heavy	heavy	JJ	O	0			
+12	weapons	weapon	NNS	O-ARTIFACT	0		ARTIFACT	
+13	,	,	,	O	0			
+14	including	include	VBG	O-stative	0		stative	
+15	portable	portable	JJ	O	0			
+16	surface-to-air	surface-to-air	JJ	O	0			
+17	missiles	missile	NNS	O-ARTIFACT	0		ARTIFACT	
+18	,	,	,	O	0			
+19	as	as	RB	B	0			
+20	well	well	RB	Ī	19	_		
+21	as	as	IN	B	0			
+22	for	for	IN	Ī	21	_		
+23	American	american	JJ	O	0			
+24	air	air	NN	B-ARTIFACT	0		ARTIFACT	
+25	support	support	NN	Ī	24	_		
+26	.	.	.	O	0			
+1	In	in	IN	O	0			
+2	a	a	DT	O	0			
+3	statement	statement	NN	B-GROUP	0		GROUP	
+4	issued	issue	VBN	Ī	3	_		
+5	after	after	IN	O	0			
+6	the	the	DT	O	0			
+7	president	president	NN	O-PERSON	0		PERSON	
+8	'	'	POS	O	0			
+9	s	s	NNS	O-TIME	0		TIME	
+10	remarks	remark	NNS	O-COMMUNICATION	0		COMMUNICATION	
+11	,	,	,	O	0			
+12	Rep.	rep.	NNP	B-GROUP	0		GROUP	
+13	Ed	ed	NNP	Ī	12	_		
+14	Royce	royce	NNP	Ī	13	_		
+15	-LRB-	-lrb-	-LRB-	O	0			
+16	R-Calif	r-calif	NNP	O-LOCATION	0		LOCATION	
+17	.	.	.	O	0			
+18	-RRB-	-rrb-	-RRB-	O	0			
+19	,	,	,	O	0			
+20	chairman	chairman	NN	O-PERSON	0		PERSON	
+21	of	of	IN	O	0			
+22	the	the	DT	O	0			
+23	House	house	NNP	B-GROUP	0		GROUP	
+24	Foreign	foreign	NNP	Ī	23	_		
+25	Affairs	affairs	NNP	Ī	24	_		
+26	Committee	committee	NNP	Ī	25	_		
+27	,	,	,	O	0			
+28	said	say	VBD	O-communication	0		communication	
+29	,	,	,	O	0			
+30	``	``	``	O	0			
+31	We	we	PRP	O	0			
+32	must	must	MD	O	0			
+33	get	get	VB	O-stative	0		stative	
+34	serious	serious	JJ	O	0			
+35	about	about	IN	O	0			
+36	confronting	confront	VBG	O-social	0		social	
+37	this	this	DT	O	0			
+38	force	force	NN	O-COGNITION	0		COGNITION	
+39	,	,	,	O	0			
+40	including	include	VBG	O-stative	0		stative	
+41	by	by	IN	O	0			
+42	aggressively	aggressively	RB	O	0			
+43	arming	arm	VBG	O-competition	0		competition	
+44	those	those	DT	O	0			
+45	battling	battle	VBG	O-possession	0		possession	
+46	it	it	PRP	O	0			
+47	.	.	.	O	0			
+1	''	''	''	O	0			
+2	The	the	DT	O	0			
+3	White	white	NNP	B-GROUP	0		GROUP	
+4	House	house	NNP	Ī	3	_		
+5	confirmed	confirm	VBD	O-cognition	0		cognition	
+6	early	early	JJ	O	0			
+7	Wednesday	wednesday	NNP	O-TIME	0		TIME	
+8	that	that	WDT	O	0			
+9	U.S.	u.s.	NNP	O-LOCATION	0		LOCATION	
+10	intelligence	intelligence	NN	O-COMMUNICATION	0		COMMUNICATION	
+11	had	have	VBD	O-`a	0		`a	
+12	deemed	deem	VBN	O-cognition	0		cognition	
+13	the	the	DT	O	0			
+14	video	video	NN	O-COMMUNICATION	0		COMMUNICATION	
+15	authentic	authentic	JJ	O	0			
+16	.	.	.	O	0			
+1	Obama	obama	NNP	O-PERSON	0		PERSON	
+2	spoke	speak	VBD	O-communication	0		communication	
+3	in	in	IN	O	0			
+4	Martha	martha	NNP	O-LOCATION	0		LOCATION	
+5	'	'	POS	O	0			
+6	s	s	NNS	B-PERSON	0		PERSON	
+7	Vineyard	vineyard	NNP	Ī	6	_		
+8	,	,	,	O	0			
+9	where	where	WRB	O	0			
+10	he	he	PRP	O	0			
+11	is	be	VBZ	O-`a	0		`a	
+12	vacationing	vacation	VBG	O-stative	0		stative	
+13	with	with	IN	O	0			
+14	his	his	PRP$	O	0			
+15	family	family	NN	O-GROUP	0		GROUP	
+16	.	.	.	O	0			
+1	Foley	foley	NNP	O-PERSON	0		PERSON	
+2	,	,	,	O	0			
+3	a	a	DT	O	0			
+4	40-year-old	40-year-old	JJ	O	0			
+5	New	new	NNP	B-LOCATION	0		LOCATION	
+6	Hampshire	hampshire	NNP	Ī	5	_		
+7	native	native	JJ	O	0			
+8	and	and	CC	O	0			
+9	a	a	DT	O	0			
+10	photojournalist	photojournalist	NN	O-PERSON	0		PERSON	
+11	working	work	VBG	O-social	0		social	
+12	for	for	IN	O	0			
+13	the	the	DT	O	0			
+14	Boston-based	boston-based	JJ	O	0			
+15	Web	web	NN	B-COMMUNICATION	0		COMMUNICATION	
+16	site	site	NN	Ī	15	_		
+17	GlobalPost	globalpost	NNP	O-PERSON	0		PERSON	
+18	,	,	,	O	0			
+19	was	be	VBD	O-`a	0		`a	
+20	kidnapped	kidnap	VBN	O-contact	0		contact	
+21	in	in	IN	O	0			
+22	northern	northern	JJ	O	0			
+23	Syria	syria	NNP	O-LOCATION	0		LOCATION	
+24	nearly	nearly	RB	O	0			
+25	two	two	CD	O	0			
+26	years	years	NNS	O-TIME	0		TIME	
+27	ago	ago	IN	O	0			
+28	while	while	IN	O	0			
+29	covering	cover	VBG	O-stative	0		stative	
+30	the	the	DT	O	0			
+31	civil	civil	JJ	B-SUBSTANCE	0		SUBSTANCE	
+32	war	war	NN	Ī	31	_		
+33	in	in	IN	O	0			
+34	Syria	syria	NNP	O-LOCATION	0		LOCATION	
+35	.	.	.	O	0			
+1	In	in	IN	O	0			
+2	Britain	britain	NNP	O-LOCATION	0		LOCATION	
+3	Wednesday	wednesday	NNP	O-TIME	0		TIME	
+4	,	,	,	O	0			
+5	Prime	prime	NNP	B-GROUP	0		GROUP	
+6	Minister	minister	NNP	Ī	5	_		
+7	David	david	NNP	Ī	6	_		
+8	Cameron	cameron	NNP	Ī	7	_		
+9	cut	cut	VBD	O-stative	0		stative	
+10	short	short	RB	O	0			
+11	a	a	DT	O	0			
+12	family	family	NN	B-GROUP	0		GROUP	
+13	vacation	vacation	NN	Ī	12	_		
+14	and	and	CC	O	0			
+15	returned	return	VBD	O-motion	0		motion	
+16	to	to	TO	O	0			
+17	London	london	NNP	O-LOCATION	0		LOCATION	
+18	to	to	TO	O	0			
+19	chair	chair	NN	B-ACT	0		ACT	
+20	emergency	emergency	NN	Ī	19	_		
+21	meetings	meeting	NNS	O-GROUP	0		GROUP	
+22	on	on	IN	O	0			
+23	Iraq	iraq	NNP	O-LOCATION	0		LOCATION	
+24	and	and	CC	O	0			
+25	Syria	syria	NNP	O-LOCATION	0		LOCATION	
+26	,	,	,	O	0			
+27	amid	amid	IN	O	0			
+28	indications	indication	NNS	O-COMMUNICATION	0		COMMUNICATION	
+29	that	that	IN	O	0			
+30	a	a	DT	O	0			
+31	British	british	JJ	O	0			
+32	citizen	citizen	NN	O-PERSON	0		PERSON	
+33	was	be	VBD	O-`a	0		`a	
+34	involved	involve	VBN	O-stative	0		stative	
+35	in	in	IN	O	0			
+36	Foley	foley	NNP	O-LOCATION	0		LOCATION	
+37	'	'	POS	O	0			
+38	s	s	NNS	O-TIME	0		TIME	
+39	killing	kill	VBG	O-stative	0		stative	
+40	.	.	.	O	0			
+1	In	in	IN	O	0			
+2	the	the	DT	O	0			
+3	video	video	NN	O-ARTIFACT	0		ARTIFACT	
+4	,	,	,	O	0			
+5	his	his	PRP$	O	0			
+6	masked	mask	VBN	O-perception	0		perception	
+7	executioner	executioner	NN	O-PERSON	0		PERSON	
+8	speaks	speak	VBZ	O-communication	0		communication	
+9	in	in	IN	O	0			
+10	English	english	NNP	O-COMMUNICATION	0		COMMUNICATION	
+11	with	with	IN	O	0			
+12	what	what	WP	O	0			
+13	sounds	sound	VBZ	O-cognition	0		cognition	
+14	like	like	IN	O	0			
+15	a	a	DT	O	0			
+16	British	british	JJ	B-ATTRIBUTE	0		ATTRIBUTE	
+17	accent	accent	NN	Ī	16	_		
+18	.	.	.	O	0			
+1	After	after	IN	O	0			
+2	beheading	beheading	NN	O-ACT	0		ACT	
+3	Foley	foley	NNP	O-PERSON	0		PERSON	
+4	,	,	,	O	0			
+5	the	the	DT	O	0			
+6	executioner	executioner	NN	O-PERSON	0		PERSON	
+7	is	be	VBZ	O-`a	0		`a	
+8	pictured	picture	VBN	O-social	0		social	
+9	with	with	IN	O	0			
+10	a	a	DT	O	0			
+11	second	second	JJ	O	0			
+12	captive	captive	NN	O-PERSON	0		PERSON	
+13	,	,	,	O	0			
+14	identified	identify	VBN	O-cognition	0		cognition	
+15	as	as	IN	O	0			
+16	U.S.	u.s.	NNP	O-GROUP	0		GROUP	
+17	freelance	freelance	JJ	O	0			
+18	journalist	journalist	NN	O-PERSON	0		PERSON	
+19	Steven	steven	NNP	B-PERSON	0		PERSON	
+20	Joel	joel	NNP	Ī	19	_		
+21	Sotloff	sotloff	NNP	Ī	20	_		
+22	,	,	,	O	0			
+23	who	who	WP	O	0			
+24	disappeared	disappear	VBD	O-change	0		change	
+25	last	last	JJ	O	0			
+26	year	year	NN	O-TIME	0		TIME	
+27	in	in	IN	O	0			
+28	Syria	syria	NNP	O-LOCATION	0		LOCATION	
+29	.	.	.	O	0			
+1	``	``	``	O	0			
+2	The	the	DT	O	0			
+3	life	life	NN	O-PHENOMENON	0		PHENOMENON	
+4	of	of	IN	O	0			
+5	this	this	DT	O	0			
+6	American	american	JJ	O	0			
+7	citizen	citizen	NN	O-PERSON	0		PERSON	
+8	,	,	,	O	0			
+9	Obama	obama	NNP	O-PERSON	0		PERSON	
+10	,	,	,	O	0			
+11	depends	depend	VBZ	B-stative	0		stative	
+12	on	on	IN	Ī	11	_		
+13	your	your	PRP$	O	0			
+14	next	next	JJ	O	0			
+15	decision	decision	NN	O-COGNITION	0		COGNITION	
+16	,	,	,	O	0			
+17	''	''	''	O	0			
+18	the	the	DT	O	0			
+19	executioner	executioner	NN	O-PERSON	0		PERSON	
+20	says	say	VBZ	O-communication	0		communication	
+21	.	.	.	O	0			
+1	In	in	IN	O	0			
+2	an	an	DT	O	0			
+3	interview	interview	NN	O-COMMUNICATION	0		COMMUNICATION	
+4	with	with	IN	O	0			
+5	the	the	DT	O	0			
+6	BBC	bbc	NNP	O-GROUP	0		GROUP	
+7	,	,	,	O	0			
+8	British	british	NNP	B-GROUP	0		GROUP	
+9	Foreign	foreign	NNP	Ī	8	_		
+10	Secretary	secretary	NNP	Ī	9	_		
+11	Philip	philip	NNP	Ī	10	_		
+12	Hammond	hammond	NNP	Ī	11	_		
+13	acknowledged	acknowledge	VBD	O-cognition	0		cognition	
+14	that	that	IN	O	0			
+15	the	the	DT	O	0			
+16	executioner	executioner	NN	O-PERSON	0		PERSON	
+17	spoke	speak	VBD	O-communication	0		communication	
+18	with	with	IN	O	0			
+19	a	a	DT	O	0			
+20	British	british	JJ	B	0			
+21	accent	accent	NN	Ī	20	_		
+22	and	and	CC	O	0			
+23	said	say	VBD	O-communication	0		communication	
+24	the	the	DT	O	0			
+25	video	video	NN	O-COMMUNICATION	0		COMMUNICATION	
+26	seemed	seem	VBD	O-cognition	0		cognition	
+27	to	to	TO	O	0			
+28	be	be	VB	O-stative	0		stative	
+29	genuine	genuine	JJ	O	0			
+30	.	.	.	O	0			
+1	Hundreds	hundred	NNS	O	0			
+2	of	of	IN	O	0			
+3	Britons	briton	NNS	O-PERSON	0		PERSON	
+4	are	be	VBP	O-`a	0		`a	
+5	believed	believe	VBN	O-cognition	0		cognition	
+6	to	to	TO	O	0			
+7	have	have	VB	O-`a	0		`a	
+8	traveled	travel	VBN	O-motion	0		motion	
+9	to	to	TO	O	0			
+10	Syria	syria	NNP	O-LOCATION	0		LOCATION	
+11	to	to	TO	O	0			
+12	fight	fight	VB	O-social	0		social	
+13	in	in	IN	O	0			
+14	the	the	DT	O	0			
+15	country	country	NN	O-LOCATION	0		LOCATION	
+16	'	'	POS	O	0			
+17	s	s	NNS	O-TIME	0		TIME	
+18	civil	civil	JJ	B-ACT	0		ACT	
+19	war	war	NN	Ī	18	_		
+20	,	,	,	O	0			
+21	including	include	VBG	O-stative	0		stative	
+22	many	many	JJ	O	0			
+23	who	who	WP	O	0			
+24	have	have	VBP	O-`a	0		`a	
+25	joined	join	VBN	O-social	0		social	
+26	the	the	DT	O	0			
+27	Islamic	islamic	JJ	O	0			
+28	State	state	NN	O-GROUP	0		GROUP	
+29	.	.	.	O	0			
+1	``	``	``	O	0			
+2	We	we	PRP	O	0			
+3	'	'	''	O	0			
+4	re	re	JJ	O	0			
+5	absolutely	absolutely	RB	O	0			
+6	aware	aware	JJ	O	0			
+7	that	that	IN	O	0			
+8	there	there	EX	O	0			
+9	are	be	VBP	O-stative	0		stative	
+10	significant	significant	JJ	O	0			
+11	numbers	numbers	NNS	O-COGNITION	0		COGNITION	
+12	of	of	IN	O	0			
+13	British	british	JJ	O	0			
+14	nationals	national	NNS	O-PERSON	0		PERSON	
+15	involved	involve	VBN	O-stative	0		stative	
+16	in	in	IN	O	0			
+17	terrible	terrible	JJ	O	0			
+18	crimes	crime	NNS	O-ACT	0		ACT	
+19	,	,	,	O	0			
+20	probably	probably	RB	O	0			
+21	in	in	IN	O	0			
+22	the	the	DT	O	0			
+23	commission	commission	NN	O-LOCATION	0		LOCATION	
+24	of	of	IN	O	0			
+25	atrocities	atrocity	NNS	O-ATTRIBUTE	0		ATTRIBUTE	
+26	,	,	,	O	0			
+27	''	''	''	O	0			
+28	Hammond	hammond	NNP	O-GROUP	0		GROUP	
+29	said	say	VBD	O-communication	0		communication	
+30	.	.	.	O	0			
+1	``	``	``	O	0			
+2	Many	many	JJ	B	0			
+3	of	of	IN	Ī	2	_		
+4	these	these	DT	O	0			
+5	people	person	NNS	O-PERSON	0		PERSON	
+6	may	may	MD	O	0			
+7	seek	seek	VB	O-social	0		social	
+8	at	at	IN	B-COGNITION	0		COGNITION	
+9	some	some	DT	Ĩ	8	~		
+10	point	point	NN	Ī	9	_		
+11	to	to	TO	O	0			
+12	return	return	VB	O-motion	0		motion	
+13	to	to	TO	O	0			
+14	the	the	DT	O	0			
+15	U.K.	u.k.	NNP	O-LOCATION	0		LOCATION	
+16	,	,	,	O	0			
+17	and	and	CC	O	0			
+18	they	they	PRP	O	0			
+19	would	would	MD	O	0			
+20	then	then	RB	O	0			
+21	pose	pose	VB	B-social	0		social	
+22	a	a	DT	o	0			
+23	direct	direct	JJ	o	0			
+24	threat	threat	NN	Ī	21	_		
+25	to	to	TO	O	0			
+26	our	our	PRP$	O	0			
+27	domestic	domestic	JJ	B-STATE	0		STATE	
+28	security	security	NN	Ī	27	_		
+29	.	.	.	O	0			
+1	''	''	''	O	0			
+2	A	a	DT	O	0			
+3	European	european	JJ	O	0			
+4	intelligence	intelligence	NN	O-COGNITION	0		COGNITION	
+5	official	official	NN	O-PERSON	0		PERSON	
+6	said	say	VBD	O-communication	0		communication	
+7	the	the	DT	O	0			
+8	British	british	JJ	O	0			
+9	government	government	NN	O-GROUP	0		GROUP	
+10	was	be	VBD	O-`a	0		`a	
+11	examining	examine	VBG	O-communication	0		communication	
+12	the	the	DT	O	0			
+13	video	video	NN	O-COMMUNICATION	0		COMMUNICATION	
+14	,	,	,	O	0			
+15	and	and	CC	O	0			
+16	the	the	DT	O	0			
+17	speech	speech	NN	O-COGNITION	0		COGNITION	
+18	of	of	IN	O	0			
+19	the	the	DT	O	0			
+20	purported	purported	JJ	O	0			
+21	executioner	executioner	NN	O-PERSON	0		PERSON	
+22	,	,	,	O	0			
+23	to	to	TO	O	0			
+24	compare	compare	VB	O-cognition	0		cognition	
+25	it	it	PRP	O	0			
+26	to	to	TO	O	0			
+27	the	the	DT	O	0			
+28	speech	speech	NN	O-COGNITION	0		COGNITION	
+29	of	of	IN	O	0			
+30	former	former	JJ	O	0			
+31	Guantanamo	guantanamo	NNP	B-LOCATION	0		LOCATION	
+32	Bay	bay	NNP	Ī	31	_		
+33	prisoners	prisoner	NNS	Ī	32	_		
+34	and	and	CC	O	0			
+35	other	other	JJ	O	0			
+36	British	british	JJ	O	0			
+37	residents	resident	NNS	O-PERSON	0		PERSON	
+38	believed	believe	VBN	O-cognition	0		cognition	
+39	to	to	TO	O	0			
+40	have	have	VB	O-`a	0		`a	
+41	joined	join	VBN	O-social	0		social	
+42	the	the	DT	O	0			
+43	Islamic	islamic	JJ	O	0			
+44	State	state	NN	O-GROUP	0		GROUP	
+45	.	.	.	O	0			
+1	Both	both	DT	O	0			
+2	prisoners	prisoner	NNS	O-GROUP	0		GROUP	
+3	in	in	IN	O	0			
+4	the	the	DT	O	0			
+5	video	video	NN	O-ARTIFACT	0		ARTIFACT	
+6	are	be	VBP	O-`a	0		`a	
+7	wearing	wear	VBG	O-body	0		body	
+8	orange	orange	JJ	O	0			
+9	shirts	shirt	NNS	O-ARTIFACT	0		ARTIFACT	
+10	and	and	CC	O	0			
+11	pants	pants	NNS	O-ARTIFACT	0		ARTIFACT	
+12	,	,	,	O	0			
+13	similar	similar	JJ	O	0			
+14	to	to	TO	O	0			
+15	orange	orange	JJ	O	0			
+16	jumpsuits	jumpsuit	NNS	O-ARTIFACT	0		ARTIFACT	
+17	worn	wear	VBN	O-stative	0		stative	
+18	by	by	IN	O	0			
+19	detainees	detainee	NNS	O-PERSON	0		PERSON	
+20	at	at	IN	O	0			
+21	the	the	DT	O	0			
+22	U.S.	u.s.	NNP	B-GROUP	0		GROUP	
+23	military	military	JJ	o	0			
+24	prison	prison	NN	Ī	22	_		
+25	at	at	IN	O	0			
+26	Guantanamo	guantanamo	NNP	B-LOCATION	0		LOCATION	
+27	Bay	bay	NNP	Ī	26	_		
+28	,	,	,	O	0			
+29	Cuba	cuba	NNP	O-LOCATION	0		LOCATION	
+30	.	.	.	O	0			
+1	A	a	DT	O	0			
+2	similar	similar	JJ	O	0			
+3	outfit	outfit	NN	O-GROUP	0		GROUP	
+4	,	,	,	O	0			
+5	believed	believe	VBN	O-cognition	0		cognition	
+6	to	to	TO	O	0			
+7	be	be	VB	O-stative	0		stative	
+8	a	a	DT	O	0			
+9	jihadist	jihadist	NN	O-PERSON	0		PERSON	
+10	symbol	symbol	NN	O-COGNITION	0		COGNITION	
+11	of	of	IN	O	0			
+12	the	the	DT	O	0			
+13	prison	prison	NN	O-ARTIFACT	0		ARTIFACT	
+14	,	,	,	O	0			
+15	was	be	VBD	O-`a	0		`a	
+16	worn	wear	VBN	O-stative	0		stative	
+17	by	by	IN	O	0			
+18	Nicholas	nicholas	NNP	B-GROUP	0		GROUP	
+19	Berg	berg	NNP	Ī	18	_		
+20	,	,	,	O	0			
+21	an	an	DT	O	0			
+22	American	american	JJ	O	0			
+23	businessman	businessman	NN	O-PERSON	0		PERSON	
+24	kidnapped	kidnap	VBN	O-contact	0		contact	
+25	in	in	IN	O	0			
+26	Iraq	iraq	NNP	O-LOCATION	0		LOCATION	
+27	in	in	IN	O	0			
+28	2004	2004	CD	O	0			
+29	whose	whose	WP$	O	0			
+30	execution	execution	NN	O-ACT	0		ACT	
+31	by	by	IN	O	0			
+32	an	an	DT	O	0			
+33	Islamic	islamic	JJ	O	0			
+34	State	state	NN	B-ARTIFACT	0		ARTIFACT	
+35	precursor	precursor	NN	Ī	34	_		
+36	organization	organization	NN	O-GROUP	0		GROUP	
+37	was	be	VBD	O-`a	0		`a	
+38	recorded	record	VBN	O-communication	0		communication	
+39	on	on	IN	O	0			
+40	video	video	NN	O-COMMUNICATION	0		COMMUNICATION	
+41	and	and	CC	O	0			
+42	posted	post	VBD	O-communication	0		communication	
+43	online	online	NN	O	0			
+44	.	.	.	O	0			
+1	Foley	foley	NNP	O-PERSON	0		PERSON	
+2	,	,	,	O	0			
+3	40	40	CD	O	0			
+4	,	,	,	O	0			
+5	was	be	VBD	O-`a	0		`a	
+6	working	work	VBG	O-stative	0		stative	
+7	in	in	IN	O	0			
+8	Syria	syria	NNP	O-LOCATION	0		LOCATION	
+9	for	for	IN	O	0			
+10	the	the	DT	O	0			
+11	Boston-based	boston-based	JJ	O	0			
+12	news	news	NN	O-COMMUNICATION	0		COMMUNICATION	
+13	Web	web	NN	B-COMMUNICATION	0		COMMUNICATION	
+14	site	site	NN	Ī	13	_		
+15	GlobalPost	globalpost	NNP	O-PERSON	0		PERSON	
+16	when	when	WRB	O	0			
+17	he	he	PRP	O	0			
+18	disappeared	disappear	VBD	O-change	0		change	
+19	on	on	IN	O	0			
+20	Thanksgiving	thanksgiving	NNP	O-TIME	0		TIME	
+21	in	in	IN	O	0			
+22	2012	2012	CD	O	0			
+23	.	.	.	O	0			
+1	In	in	IN	O	0			
+2	a	a	DT	O	0			
+3	statement	statement	NN	O-COMMUNICATION	0		COMMUNICATION	
+4	Tuesday	tuesday	NNP	O-TIME	0		TIME	
+5	night	night	NN	O-TIME	0		TIME	
+6	on	on	IN	O	0			
+7	a	a	DT	O	0			
+8	Facebook	facebook	NNP	O-PERSON	0		PERSON	
+9	page	page	NN	O-COMMUNICATION	0		COMMUNICATION	
+10	dedicated	dedicate	VBN	O-cognition	0		cognition	
+11	to	to	TO	O	0			
+12	his	his	PRP$	O	0			
+13	freedom	freedom	NN	O-COGNITION	0		COGNITION	
+14	,	,	,	O	0			
+15	Foley	foley	NNP	O-PERSON	0		PERSON	
+16	'	'	POS	O	0			
+17	s	s	NNS	O-TIME	0		TIME	
+18	mother	mother	NN	O-PERSON	0		PERSON	
+19	wrote	write	VBD	O-stative	0		stative	
+20	:	:	:	O	0			
+21	``	``	``	O	0			
+22	We	we	PRP	O	0			
+23	have	have	VBP	O-`a	0		`a	
+24	never	never	RB	O	0			
+25	been	be	VBN	O-stative	0		stative	
+26	prouder	proud	JJ	O	0			
+27	of	of	IN	O	0			
+28	our	our	PRP$	O	0			
+29	son	son	NN	O-PERSON	0		PERSON	
+30	Jim	jim	NNP	O-PERSON	0		PERSON	
+31	,	,	,	O	0			
+32	''	''	''	O	0			
+33	Diane	diane	NNP	B-PERSON	0		PERSON	
+34	Foley	foley	NNP	Ī	33	_		
+35	wrote	write	VBD	O-stative	0		stative	
+36	.	.	.	O	0			
+1	``	``	``	O	0			
+2	He	he	PRP	O	0			
+3	gave	give	VBD	O-possession	0		possession	
+4	his	his	PRP$	O	0			
+5	life	life	NN	O-TIME	0		TIME	
+6	trying	try	VBG	O-social	0		social	
+7	to	to	TO	O	0			
+8	expose	expose	VB	O-cognition	0		cognition	
+9	the	the	DT	O	0			
+10	world	world	NN	O-COGNITION	0		COGNITION	
+11	to	to	TO	O	0			
+12	the	the	DT	O	0			
+13	suffering	suffering	NN	O-ATTRIBUTE	0		ATTRIBUTE	
+14	of	of	IN	O	0			
+15	the	the	DT	O	0			
+16	Syrian	syrian	JJ	O	0			
+17	people	person	NNS	O-PERSON	0		PERSON	
+18	.	.	.	O	0			
+1	``	``	``	O	0			
+2	We	we	PRP	O	0			
+3	implore	implore	VBP	O-communication	0		communication	
+4	the	the	DT	O	0			
+5	kidnappers	kidnapper	NNS	O-PERSON	0		PERSON	
+6	to	to	TO	O	0			
+7	spare	spare	VB	O-social	0		social	
+8	the	the	DT	O	0			
+9	lives	life	NNS	O-COGNITION	0		COGNITION	
+10	of	of	IN	O	0			
+11	the	the	DT	O	0			
+12	remaining	remain	VBG	O-change	0		change	
+13	hostages	hostage	NNS	O-PERSON	0		PERSON	
+14	.	.	.	O	0			
+1	Like	like	IN	O	0			
+2	Jim	jim	NNP	O-PERSON	0		PERSON	
+3	,	,	,	O	0			
+4	they	they	PRP	O	0			
+5	are	be	VBP	O-stative	0		stative	
+6	innocents	innocent	NNS	O-PERSON	0		PERSON	
+7	.	.	.	O	0			
+1	They	they	PRP	O	0			
+2	have	have	VBP	O-stative	0		stative	
+3	no	no	DT	O	0			
+4	control	control	NN	O-COGNITION	0		COGNITION	
+5	over	over	IN	O	0			
+6	American	american	JJ	O	0			
+7	government	government	NN	O-COGNITION	0		COGNITION	
+8	policy	policy	NN	O-COGNITION	0		COGNITION	
+9	in	in	IN	O	0			
+10	Iraq	iraq	NNP	O-LOCATION	0		LOCATION	
+11	,	,	,	O	0			
+12	Syria	syria	NNP	O-LOCATION	0		LOCATION	
+13	or	or	CC	O	0			
+14	anywhere	anywhere	RB	O	0			
+15	in	in	IN	B	0			
+16	the	the	DT	Ī	15	_		
+17	world	world	NN	Ī	16	_		
+18	.	.	.	O	0			
+1	''	''	''	O	0			
+2	Praising	praise	VBG	O-social	0		social	
+3	James	james	NNP	B-PERSON	0		PERSON	
+4	Foley	foley	NNP	Ī	3	_		
+5	as	as	IN	O	0			
+6	``	``	``	O	0			
+7	an	an	DT	O	0			
+8	extraordinary	extraordinary	JJ	O	0			
+9	son	son	NN	O-PERSON	0		PERSON	
+10	,	,	,	O	0			
+11	brother	brother	NN	O-PERSON	0		PERSON	
+12	,	,	,	O	0			
+13	journalist	journalist	NN	O-PERSON	0		PERSON	
+14	and	and	CC	O	0			
+15	person	person	NN	O-PERSON	0		PERSON	
+16	,	,	,	O	0			
+17	''	''	''	O	0			
+18	she	she	PRP	O	0			
+19	asked	ask	VBD	O-communication	0		communication	
+20	that	that	IN	O	0			
+21	the	the	DT	O	0			
+22	family	family	NN	O-GROUP	0		GROUP	
+23	'	'	POS	O	0			
+24	s	s	NNS	O-TIME	0		TIME	
+25	privacy	privacy	NN	O-ATTRIBUTE	0		ATTRIBUTE	
+26	be	be	VB	O-`a	0		`a	
+27	respected	respect	VBN	O-cognition	0		cognition	
+28	.	.	.	O	0			
+1	In	in	IN	B	0			
+2	addition	addition	NN	Ī	1	_		
+3	to	to	TO	O	0			
+4	Foley	foley	NNP	O-PERSON	0		PERSON	
+5	and	and	CC	O	0			
+6	Sotloff	sotloff	NNP	O-PERSON	0		PERSON	
+7	,	,	,	O	0			
+8	at	at	IN	O	0			
+9	least	least	JJS	O	0			
+10	three	three	CD	O	0			
+11	other	other	JJ	O	0			
+12	Americans	american	NNS	O-PERSON	0		PERSON	
+13	are	be	VBP	O-`a	0		`a	
+14	believed	believe	VBN	O-cognition	0		cognition	
+15	to	to	TO	O	0			
+16	be	be	VB	O-stative	0		stative	
+17	captives	captive	NNS	O-PERSON	0		PERSON	
+18	in	in	IN	O	0			
+19	Syria	syria	NNP	O-LOCATION	0		LOCATION	
+20	,	,	,	O	0			
+21	according	accord	VBG	O-stative	0		stative	
+22	to	to	TO	O	0			
+23	a	a	DT	O	0			
+24	2013	2013	CD	B-ARTIFACT	0		ARTIFACT	
+25	GlobalPost	globalpost	NNP	Ī	24	_		
+26	article	article	NN	O-COMMUNICATION	0		COMMUNICATION	
+27	,	,	,	O	0			
+28	including	include	VBG	O-stative	0		stative	
+29	Austin	austin	NNP	B-GROUP	0		GROUP	
+30	Tice	tice	NNP	Ī	29	_		
+31	,	,	,	O	0			
+32	a	a	DT	O	0			
+33	freelance	freelance	JJ	O	0			
+34	journalist	journalist	NN	O-PERSON	0		PERSON	
+35	whose	whose	WP$	O	0			
+36	articles	article	NNS	O-COMMUNICATION	0		COMMUNICATION	
+37	appeared	appear	VBD	O-social	0		social	
+38	in	in	IN	O	0			
+39	McClatchy	mcclatchy	NNP	O-LOCATION	0		LOCATION	
+40	publications	publication	NNS	O-COMMUNICATION	0		COMMUNICATION	
+41	and	and	CC	O	0			
+42	The	the	DT	O	0			
+43	Washington	washington	NNP	B-GROUP	0		GROUP	
+44	Post	post	NNP	Ī	43	_		
+45	before	before	IN	O	0			
+46	his	his	PRP$	O	0			
+47	disappearance	disappearance	NN	O-ACT	0		ACT	
+48	in	in	IN	O	0			
+49	August	august	NNP	O-TIME	0		TIME	
+50	2012	2012	CD	O	0			
+51	.	.	.	O	0			
+1	No	no	DT	B	0			
+2	one	one	NN	Ī	1	_		
+3	has	have	VBZ	O-`a	0		`a	
+4	claimed	claim	VBN	O-communication	0		communication	
+5	to	to	TO	O	0			
+6	be	be	VB	O-`a	0		`a	
+7	holding	hold	VBG	O-stative	0		stative	
+8	them	them	PRP	O	0			
+9	.	.	.	O	0			
+1	According	accord	VBG	O-stative	0		stative	
+2	to	to	TO	O	0			
+3	the	the	DT	O	0			
+4	Committee	committee	NNP	O-GROUP	0		GROUP	
+5	to	to	TO	O	0			
+6	Protect	protect	VB	O-social	0		social	
+7	Journalists	journalist	NNS	O-PERSON	0		PERSON	
+8	,	,	,	O	0			
+9	at	at	IN	O	0			
+10	least	least	JJS	O	0			
+11	66	66	CD	O	0			
+12	journalists	journalist	NNS	O-PERSON	0		PERSON	
+13	,	,	,	O	0			
+14	all	all	DT	O	0			
+15	but	but	CC	O	0			
+16	10	10	CD	O	0			
+17	of	of	IN	O	0			
+18	them	them	PRP	O	0			
+19	Syrian	syrian	JJ	O	0			
+20	,	,	,	O	0			
+21	have	have	VBP	O-`a	0		`a	
+22	been	be	VBN	O-`a	0		`a	
+23	killed	kill	VBN	O-emotion	0		emotion	
+24	covering	cover	VBG	B-social	0		social	
+25	the	the	DT	o	0			
+26	Syrian	syrian	JJ	o	0			
+27	war	war	NN	Ī	24	_		
+28	.	.	.	O	0			
+1	If	if	IN	O	0			
+2	the	the	DT	O	0			
+3	video	video	NN	O-COGNITION	0		COGNITION	
+4	is	be	VBZ	O-`a	0		`a	
+5	authenticated	authenticate	VBN	O-cognition	0		cognition	
+6	,	,	,	O	0			
+7	Foley	foley	NNP	O-PERSON	0		PERSON	
+8	would	would	MD	O	0			
+9	be	be	VB	O-stative	0		stative	
+10	the	the	DT	O	0			
+11	first	first	JJ	O	0			
+12	American	american	JJ	O	0			
+13	journalist	journalist	NN	O-PERSON	0		PERSON	
+14	known	know	VBN	O-cognition	0		cognition	
+15	to	to	TO	O	0			
+16	be	be	VB	O-`a	0		`a	
+17	executed	execute	VBN	O-social	0		social	
+18	since	since	IN	O	0			
+19	the	the	DT	O	0			
+20	conflict	conflict	NN	O-ARTIFACT	0		ARTIFACT	
+21	began	begin	VBD	O-stative	0		stative	
+22	in	in	IN	O	0			
+23	early	early	JJ	O	0			
+24	2011	2011	CD	O	0			
+25	.	.	.	O	0			
+1	The	the	DT	O	0			
+2	video	video	NN	O-COMMUNICATION	0		COMMUNICATION	
+3	evoked	evoke	VBD	O-emotion	0		emotion	
+4	the	the	DT	O	0			
+5	2002	2002	CD	O	0			
+6	taped	tape	VBN	O-contact	0		contact	
+7	execution	execution	NN	O-EVENT	0		EVENT	
+8	in	in	IN	O	0			
+9	Pakistan	pakistan	NNP	O-LOCATION	0		LOCATION	
+10	of	of	IN	O	0			
+11	Wall	wall	NNP	B-LOCATION	0		LOCATION	
+12	Street	street	NNP	Ī	11	_		
+13	Journal	journal	NNP	Ī	12	_		
+14	correspondent	correspondent	NN	O-ATTRIBUTE	0		ATTRIBUTE	
+15	Daniel	daniel	NNP	B-PERSON	0		PERSON	
+16	Pearl	pearl	NNP	Ī	15	_		
+17	by	by	IN	O	0			
+18	al-Qaeda	al-qaeda	NNP	O-LOCATION	0		LOCATION	
+19	.	.	.	O	0			
+1	The	the	DT	O	0			
+2	Islamic	islamic	JJ	O	0			
+3	State	state	NN	O-GROUP	0		GROUP	
+4	,	,	,	O	0			
+5	an	an	DT	O	0			
+6	offshoot	offshoot	NN	O-ATTRIBUTE	0		ATTRIBUTE	
+7	of	of	IN	O	0			
+8	al-Qaeda	al-qaeda	NNP	O-LOCATION	0		LOCATION	
+9	,	,	,	O	0			
+10	is	be	VBZ	O-stative	0		stative	
+11	the	the	DT	O	0			
+12	most	most	RBS	O	0			
+13	powerful	powerful	JJ	O	0			
+14	among	among	IN	O	0			
+15	a	a	DT	B	0			
+16	number	number	NN	Ī	15	_		
+17	of	of	IN	Ī	16	_		
+18	extremist	extremist	NN	O-PERSON	0		PERSON	
+19	organizations	organization	NNS	O-GROUP	0		GROUP	
+20	that	that	WDT	O	0			
+21	have	have	VBP	O-`a	0		`a	
+22	emerged	emerge	VBN	O-stative	0		stative	
+23	during	during	IN	O	0			
+24	the	the	DT	O	0			
+25	Syrian	syrian	JJ	O	0			
+26	civil	civil	JJ	B-ACT	0		ACT	
+27	war	war	NN	Ī	26	_		
+28	,	,	,	O	0			
+29	which	which	WDT	O	0			
+30	began	begin	VBD	O-stative	0		stative	
+31	as	as	IN	O	0			
+32	a	a	DT	O	0			
+33	popular	popular	JJ	O	0			
+34	uprising	uprising	NN	O-ACT	0		ACT	
+35	against	against	IN	O	0			
+36	President	president	NNP	B-GROUP	0		GROUP	
+37	Bashar	bashar	NNP	Ī	36	_		
+38	al-Assad	al-assad	NNP	Ī	37	_		
+39	.	.	.	O	0			
+1	Fighting	fighting	NN	O-ACT	0		ACT	
+2	against	against	IN	O	0			
+3	both	both	DT	O	0			
+4	Assad	assad	NNP	O-LOCATION	0		LOCATION	
+5	and	and	CC	O	0			
+6	U.S.-backed	u.s.-backed	JJ	O	0			
+7	rebels	rebel	NNS	O-PERSON	0		PERSON	
+8	,	,	,	O	0			
+9	the	the	DT	O	0			
+10	militants	militant	NNS	O-PERSON	0		PERSON	
+11	now	now	RB	O	0			
+12	control	control	VBP	O-social	0		social	
+13	much	much	RB	O	0			
+14	of	of	IN	O	0			
+15	eastern	eastern	JJ	O	0			
+16	Syria	syria	NNP	O-LOCATION	0		LOCATION	
+17	and	and	CC	O	0			
+18	claim	claim	NN	O-COMMUNICATION	0		COMMUNICATION	
+19	to	to	TO	O	0			
+20	have	have	VB	O-`a	0		`a	
+21	established	establish	VBN	O-social	0		social	
+22	an	an	DT	O	0			
+23	Islamic	islamic	JJ	O	0			
+24	caliphate	caliphate	NN	O-TIME	0		TIME	
+25	spanning	span	VBG	O-change	0		change	
+26	Syria	syria	NNP	O-LOCATION	0		LOCATION	
+27	and	and	CC	O	0			
+28	neighboring	neighbor	VBG	O-cognition	0		cognition	
+29	Iraq	iraq	NNP	O-GROUP	0		GROUP	
+30	.	.	.	O	0			
+1	As	as	IN	O	0			
+2	the	the	DT	O	0			
+3	group	group	NN	O-GROUP	0		GROUP	
+4	has	have	VBZ	O-`a	0		`a	
+5	grown	grow	VBN	O-stative	0		stative	
+6	,	,	,	O	0			
+7	it	it	PRP	O	0			
+8	has	have	VBZ	O-`a	0		`a	
+9	merged	merge	VBN	O-stative	0		stative	
+10	with	with	IN	O	0			
+11	the	the	DT	O	0			
+12	group	group	NN	O-GROUP	0		GROUP	
+13	formerly	formerly	RB	O	0			
+14	known	know	VBN	O-cognition	0		cognition	
+15	as	as	IN	O	0			
+16	al-Qaeda	al-qaeda	NNP	O-GROUP	0		GROUP	
+17	in	in	IN	O	0			
+18	Iraq	iraq	NNP	O-LOCATION	0		LOCATION	
+19	,	,	,	O	0			
+20	under	under	IN	O	0			
+21	the	the	DT	O	0			
+22	leadership	leadership	NN	O-COGNITION	0		COGNITION	
+23	of	of	IN	O	0			
+24	Abu	abu	NNP	B-GROUP	0		GROUP	
+25	Bakr	bakr	NNP	Ī	24	_		
+26	al-Baghdadi	al-baghdadi	NNP	Ī	25	_		
+27	.	.	.	O	0			
+1	According	accord	VBG	O-stative	0		stative	
+2	to	to	TO	O	0			
+3	U.S.	u.s.	NNP	O-GROUP	0		GROUP	
+4	intelligence	intelligence	NN	O-COGNITION	0		COGNITION	
+5	,	,	,	O	0			
+6	it	it	PRP	O	0			
+7	numbers	numbers	NNS	O-COMMUNICATION	0		COMMUNICATION	
+8	in	in	IN	O	0			
+9	the	the	DT	O	0			
+10	thousands	thousand	NNS	O-QUANTITY	0		QUANTITY	
+11	,	,	,	O	0			
+12	including	include	VBG	O-stative	0		stative	
+13	foreign	foreign	JJ	O	0			
+14	fighters	fighter	NNS	O-PERSON	0		PERSON	
+15	from	from	IN	O	0			
+16	Europe	europe	NNP	O-LOCATION	0		LOCATION	
+17	and	and	CC	O	0			
+18	the	the	DT	O	0			
+19	United	united	NNP	B-GROUP	0		GROUP	
+20	States	states	NNPS	Ī	19	_		
+21	.	.	.	O	0			
+1	In	in	IN	O	0			
+2	April	april	NNP	O-TIME	0		TIME	
+3	,	,	,	O	0			
+4	Islamic	islamic	NNP	B-LOCATION	0		LOCATION	
+5	State	state	NNP	Ī	4	_		
+6	fighters	fighter	NNS	Ī	5	_		
+7	swept	sweep	VBD	O-stative	0		stative	
+8	across	across	IN	O	0			
+9	the	the	DT	O	0			
+10	border	border	NN	O-LOCATION	0		LOCATION	
+11	into	into	IN	O	0			
+12	northern	northern	JJ	O	0			
+13	Iraq	iraq	NNP	O-LOCATION	0		LOCATION	
+14	,	,	,	O	0			
+15	taking	take	VBG	B-social	0		social	
+16	over	over	RP	Ī	15	_		
+17	the	the	DT	O	0			
+18	city	city	NN	O-LOCATION	0		LOCATION	
+19	of	of	IN	O	0			
+20	Mosul	mosul	NNP	O-LOCATION	0		LOCATION	
+21	before	before	IN	O	0			
+22	moving	move	VBG	O-motion	0		motion	
+23	southward	southward	RB	O	0			
+24	to	to	TO	O	0			
+25	within	within	IN	O	0			
+26	60	60	CD	O	0			
+27	miles	mile	NNS	O-QUANTITY	0		QUANTITY	
+28	of	of	IN	O	0			
+29	Baghdad	baghdad	NNP	O-LOCATION	0		LOCATION	
+30	.	.	.	O	0			
+1	Extensive	extensive	JJ	O	0			
+2	reports	report	NNS	O-COGNITION	0		COGNITION	
+3	of	of	IN	O	0			
+4	executions	execution	NNS	O-ACT	0		ACT	
+5	,	,	,	O	0			
+6	including	include	VBG	O-stative	0		stative	
+7	beheadings	beheading	NNS	O-ACT	0		ACT	
+8	and	and	CC	O	0			
+9	crucifixions	crucifixion	NNS	O-ACT	0		ACT	
+10	,	,	,	O	0			
+11	have	have	VBP	O-`a	0		`a	
+12	emerged	emerge	VBN	O-stative	0		stative	
+13	from	from	IN	O	0			
+14	areas	area	NNS	O-LOCATION	0		LOCATION	
+15	under	under	IN	O	0			
+16	the	the	DT	O	0			
+17	group	group	NN	O-GROUP	0		GROUP	
+18	'	'	POS	O	0			
+19	s	s	NNS	O-TIME	0		TIME	
+20	control	control	VBP	O-social	0		social	
+21	.	.	.	O	0			
+1	This	this	DT	O	0			
+2	month	month	NN	O-TIME	0		TIME	
+3	,	,	,	O	0			
+4	amid	amid	IN	O	0			
+5	reports	report	NNS	O-COGNITION	0		COGNITION	
+6	of	of	IN	O	0			
+7	stranded	strand	VBN	O-possession	0		possession	
+8	and	and	CC	O	0			
+9	besieged	besiege	VBN	O-stative	0		stative	
+10	Iraqi	iraqi	JJ	O	0			
+11	minorities	minority	NNS	O-GROUP	0		GROUP	
+12	threatened	threaten	VBN	O-stative	0		stative	
+13	with	with	IN	O	0			
+14	execution	execution	NN	O-ACT	0		ACT	
+15	,	,	,	O	0			
+16	the	the	DT	O	0			
+17	militants	militant	NNS	O-PERSON	0		PERSON	
+18	advanced	advance	VBD	O-motion	0		motion	
+19	eastward	eastward	RB	O	0			
+20	toward	toward	IN	O	0			
+21	Irbil	irbil	NNP	O-PERSON	0		PERSON	
+22	,	,	,	O	0			
+23	the	the	DT	O	0			
+24	capital	capital	NN	O-POSSESSION	0		POSSESSION	
+25	of	of	IN	O	0			
+26	the	the	DT	O	0			
+27	semiautonomous	semiautonomous	JJ	O	0			
+28	Kurdish	kurdish	JJ	O	0			
+29	region	region	NN	O-COGNITION	0		COGNITION	
+30	of	of	IN	O	0			
+31	Iraq	iraq	NNP	O-LOCATION	0		LOCATION	
+32	.	.	.	O	0			
+1	On	on	IN	O	0			
+2	Aug.	aug.	NNP	O-COMMUNICATION	0		COMMUNICATION	
+3	7	7	CD	O	0			
+4	,	,	,	O	0			
+5	Obama	obama	NNP	O-PERSON	0		PERSON	
+6	authorized	authorize	VBD	O-communication	0		communication	
+7	U.S.	u.s.	NNP	O-GROUP	0		GROUP	
+8	airstrikes	airstrikes	NNS	O-COMMUNICATION	0		COMMUNICATION	
+9	to	to	TO	O	0			
+10	rescue	rescue	NN	O-ACT	0		ACT	
+11	stranded	strand	VBD	O-possession	0		possession	
+12	minorities	minority	NNS	O-GROUP	0		GROUP	
+13	and	and	CC	O	0			
+14	protect	protect	VB	O-social	0		social	
+15	U.S.	u.s.	NNP	O-GROUP	0		GROUP	
+16	personnel	personnel	NNS	O-GROUP	0		GROUP	
+17	and	and	CC	O	0			
+18	facilities	facility	NNS	O-ARTIFACT	0		ARTIFACT	
+19	in	in	IN	O	0			
+20	Irbil	irbil	NNP	B-LOCATION	0		LOCATION	
+21	and	and	CC	Ī	20	_		
+22	Baghdad	baghdad	NNP	Ī	21	_		
+23	.	.	.	O	0			
+1	On	on	IN	O	0			
+2	Monday	monday	NNP	O-TIME	0		TIME	
+3	,	,	,	O	0			
+4	after	after	IN	O	0			
+5	a	a	DT	O	0			
+6	total	total	NN	O-COGNITION	0		COGNITION	
+7	of	of	IN	O	0			
+8	68	68	CD	O	0			
+9	strikes	strike	NNS	O-EVENT	0		EVENT	
+10	from	from	IN	O	0			
+11	jets	jet	NNS	O-ARTIFACT	0		ARTIFACT	
+12	,	,	,	O	0			
+13	bombers	bomber	NNS	O-FOOD	0		FOOD	
+14	and	and	CC	O	0			
+15	drones	drone	NNS	O-ANIMAL	0		ANIMAL	
+16	,	,	,	O	0			
+17	Obama	obama	NNP	O-PERSON	0		PERSON	
+18	announced	announce	VBD	O-communication	0		communication	
+19	that	that	IN	O	0			
+20	Iraqi	iraqi	JJ	O	0			
+21	and	and	CC	O	0			
+22	Kurdish	kurdish	JJ	O	0			
+23	forces	force	NNS	O-NATURAL OBJECT	0		NATURAL OBJECT	
+24	,	,	,	O	0			
+25	with	with	IN	O	0			
+26	U.S.	u.s.	NNP	O-GROUP	0		GROUP	
+27	air	air	NN	B-ACT	0		ACT	
+28	support	support	NN	Ī	27	_		
+29	,	,	,	O	0			
+30	had	have	VBD	O-`a	0		`a	
+31	retaken	retake	VBN	O-possession	0		possession	
+32	a	a	DT	O	0			
+33	strategic	strategic	JJ	O	0			
+34	dam	dam	NN	O-ARTIFACT	0		ARTIFACT	
+35	north	north	NN	O-LOCATION	0		LOCATION	
+36	of	of	IN	O	0			
+37	Mosul	mosul	NNP	O-LOCATION	0		LOCATION	
+38	from	from	IN	O	0			
+39	the	the	DT	O	0			
+40	militants	militant	NNS	O-PERSON	0		PERSON	
+41	and	and	CC	O	0			
+42	that	that	IN	O	0			
+43	they	they	PRP	O	0			
+44	had	have	VBD	O-`a	0		`a	
+45	been	be	VBN	O-`a	0		`a	
+46	pushed	push	VBN	O-motion	0		motion	
+47	back	back	RB	O	0			
+48	from	from	IN	O	0			
+49	Irbil	irbil	NNP	O-PERSON	0		PERSON	
+50	.	.	.	O	0			
+1	Within	within	IN	O	0			
+2	hours	hours	NNS	O-TIME	0		TIME	
+3	of	of	IN	O	0			
+4	that	that	DT	O	0			
+5	announcement	announcement	NN	O-COMMUNICATION	0		COMMUNICATION	
+6	,	,	,	O	0			
+7	the	the	DT	O	0			
+8	Islamic	islamic	NNP	B-GROUP	0		GROUP	
+9	State	state	NNP	Ī	8	_		
+10	posted	post	VBD	O-communication	0		communication	
+11	an	an	DT	O	0			
+12	online	online	JJ	O	0			
+13	message	message	NN	O-COMMUNICATION	0		COMMUNICATION	
+14	warning	warn	VBG	O-communication	0		communication	
+15	it	it	PRP	O	0			
+16	would	would	MD	O	0			
+17	attack	attack	VB	B-stative	0		stative	
+18	Americans	americans	NNPS	Ī	17	_		
+19	``	``	``	O	0			
+20	in	in	IN	O	0			
+21	any	any	DT	O	0			
+22	place	place	NN	O-LOCATION	0		LOCATION	
+23	''	''	''	O	0			
+24	in	in	IN	O	0			
+25	response	response	NN	O-COMMUNICATION	0		COMMUNICATION	
+26	to	to	TO	O	0			
+27	the	the	DT	O	0			
+28	airstrikes	airstrikes	NNS	O-PERSON	0		PERSON	
+29	.	.	.	O	0			
+1	``	``	``	O	0			
+2	We	we	PRP	O	0			
+3	will	will	MD	O	0			
+4	drown	drown	VB	O-stative	0		stative	
+5	all	all	DT	O	0			
+6	of	of	IN	O	0			
+7	you	you	PRP	O	0			
+8	in	in	IN	B-LOCATION	0		LOCATION	
+9	blood	blood	NN	Ī	8	_		
+10	,	,	,	O	0			
+11	''	''	''	O	0			
+12	it	it	PRP	O	0			
+13	said	say	VBD	O-communication	0		communication	
+14	.	.	.	O	0			
+1	The	the	DT	O	0			
+2	title	title	NN	O-COMMUNICATION	0		COMMUNICATION	
+3	of	of	IN	O	0			
+4	the	the	DT	O	0			
+5	video	video	NN	O-COMMUNICATION	0		COMMUNICATION	
+6	posted	post	VBD	O-communication	0		communication	
+7	Tuesday	tuesday	NNP	O-TIME	0		TIME	
+8	was	be	VBD	O-stative	0		stative	
+9	``	``	``	O	0			
+10	A	a	DT	O	0			
+11	Message	message	NN	O-COMMUNICATION	0		COMMUNICATION	
+12	to	to	TO	O	0			
+13	America	america	NNP	O-LOCATION	0		LOCATION	
+14	''	''	''	O	0			
+15	and	and	CC	O	0			
+16	was	be	VBD	O-`a	0		`a	
+17	produced	produce	VBN	O-body	0		body	
+18	by	by	IN	O	0			
+19	the	the	DT	O	0			
+20	Islamic	islamic	NNP	B-GROUP	0		GROUP	
+21	State	state	NNP	Ī	20	_		
+22	'	'	POS	O	0			
+23	s	s	NNS	O-TIME	0		TIME	
+24	media	medium	NNS	O-COMMUNICATION	0		COMMUNICATION	
+25	arm	arm	NN	O-COMMUNICATION	0		COMMUNICATION	
+26	,	,	,	O	0			
+27	according	accord	VBG	O-stative	0		stative	
+28	to	to	TO	O	0			
+29	the	the	DT	O	0			
+30	Site	site	NN	B-GROUP	0		GROUP	
+31	Intelligence	intelligence	NNP	Ī	30	_		
+32	Group	group	NNP	Ī	31	_		
+33	,	,	,	O	0			
+34	which	which	WDT	O	0			
+35	monitors	monitor	VBZ	O-stative	0		stative	
+36	extremist	extremist	NN	O-PERSON	0		PERSON	
+37	Web	web	NN	B-COMMUNICATION	0		COMMUNICATION	
+38	sites	site	NNS	Ī	37	_		
+39	.	.	.	O	0			
+1	A	a	DT	O	0			
+2	masked	mask	VBN	O-social	0		social	
+3	man	man	NN	O-PERSON	0		PERSON	
+4	dressed	dress	VBN	O-body	0		body	
+5	in	in	IN	O	0			
+6	black	black	JJ	O	0			
+7	is	be	VBZ	O-`a	0		`a	
+8	shown	show	VBN	O-creation	0		creation	
+9	standing	standing	NN	O-ATTRIBUTE	0		ATTRIBUTE	
+10	in	in	IN	O	0			
+11	an	an	DT	O	0			
+12	unidentified	unidentified	JJ	O	0			
+13	desert	desert	NN	O-LOCATION	0		LOCATION	
+14	location	location	NN	O-LOCATION	0		LOCATION	
+15	beside	beside	IN	O	0			
+16	a	a	DT	O	0			
+17	prisoner	prisoner	NN	O-PERSON	0		PERSON	
+18	kneeling	kneel	VBG	O-change	0		change	
+19	beside	beside	IN	O	0			
+20	him	him	PRP	O	0			
+21	with	with	IN	O	0			
+22	his	his	PRP$	O	0			
+23	hands	hands	NNS	O-COGNITION	0		COGNITION	
+24	behind	behind	IN	O	0			
+25	his	his	PRP$	O	0			
+26	back	back	NN	O-BODY	0		BODY	
+27	.	.	.	O	0			
+1	``	``	``	O	0			
+2	Obama	obama	NNP	O-PERSON	0		PERSON	
+3	authorized	authorize	VBD	O-communication	0		communication	
+4	military	military	JJ	O	0			
+5	operations	operations	NNS	O-ACT	0		ACT	
+6	against	against	IN	O	0			
+7	the	the	DT	O	0			
+8	Islamic	islamic	JJ	O	0			
+9	State	state	NN	O-GROUP	0		GROUP	
+10	effectively	effectively	RB	O	0			
+11	placing	place	VBG	O-social	0		social	
+12	America	america	NNP	O-LOCATION	0		LOCATION	
+13	upon	upon	IN	O	0			
+14	a	a	DT	O	0			
+15	slippery	slippery	JJ	B	0			
+16	slope	slope	NN	Ī	15	_		
+17	towards	towards	IN	O	0			
+18	a	a	DT	O	0			
+19	new	new	JJ	O	0			
+20	war	war	NN	O-ACT	0		ACT	
+21	against	against	IN	O	0			
+22	Muslims	muslims	NNPS	O-TIME	0		TIME	
+23	,	,	,	O	0			
+24	''	''	''	O	0			
+25	the	the	DT	O	0			
+26	masked	mask	VBN	O	0			
+27	man	man	NN	O-PERSON	0		PERSON	
+28	says	say	VBZ	O-communication	0		communication	
+29	.	.	.	O	0			
+1	The	the	DT	O	0			
+2	video	video	NN	O-COMMUNICATION	0		COMMUNICATION	
+3	then	then	RB	O	0			
+4	shows	show	VBZ	O-stative	0		stative	
+5	a	a	DT	O	0			
+6	clip	clip	NN	O-COGNITION	0		COGNITION	
+7	of	of	IN	O	0			
+8	Obama	obama	NNP	O-PERSON	0		PERSON	
+9	'	'	POS	O	0			
+10	s	s	NNS	O-TIME	0		TIME	
+11	Aug.	aug.	NNP	O-COMMUNICATION	0		COMMUNICATION	
+12	7	7	CD	O	0			
+13	announcement	announcement	NN	O-COMMUNICATION	0		COMMUNICATION	
+14	,	,	,	O	0			
+15	followed	follow	VBN	O-cognition	0		cognition	
+16	by	by	IN	O	0			
+17	a	a	DT	O	0			
+18	statement	statement	NN	O-COMMUNICATION	0		COMMUNICATION	
+19	from	from	IN	O	0			
+20	the	the	DT	O	0			
+21	prisoner	prisoner	NN	O-PERSON	0		PERSON	
+22	.	.	.	O	0			
+1	``	``	``	O	0			
+2	I	i	PRP	O	0			
+3	call	call	VBP	O-communication	0		communication	
+4	on	on	IN	O	0			
+5	my	my	PRP$	O	0			
+6	friends	friend	NNS	O-PERSON	0		PERSON	
+7	,	,	,	O	0			
+8	family	family	NN	O-GROUP	0		GROUP	
+9	and	and	CC	O	0			
+10	loved	love	VBD	O-emotion	0		emotion	
+11	ones	one	NNS	O-COGNITION	0		COGNITION	
+12	to	to	TO	O	0			
+13	rise	rise	VB	B-social	0		social	
+14	up	up	RP	Ī	13	_		
+15	against	against	IN	O	0			
+16	my	my	PRP$	O	0			
+17	real	real	JJ	O	0			
+18	killers	killer	NNS	O-PERSON	0		PERSON	
+19	,	,	,	O	0			
+20	the	the	DT	O	0			
+21	U.S.	u.s.	NNP	B-GROUP	0		GROUP	
+22	government	government	NN	Ī	21	_		
+23	,	,	,	O	0			
+24	for	for	IN	O	0			
+25	what	what	WP	O	0			
+26	will	will	MD	O	0			
+27	happen	happen	VB	O-stative	0		stative	
+28	to	to	TO	O	0			
+29	me	me	PRP	O	0			
+30	is	be	VBZ	O-stative	0		stative	
+31	only	only	RB	O	0			
+32	a	a	DT	O	0			
+33	result	result	NN	O-PHENOMENON	0		PHENOMENON	
+34	of	of	IN	O	0			
+35	their	their	PRP$	O	0			
+36	complacent	complacent	JJ	O	0			
+37	criminality	criminality	NN	O-ATTRIBUTE	0		ATTRIBUTE	
+38	,	,	,	O	0			
+39	''	''	''	O	0			
+40	he	he	PRP	O	0			
+41	says	say	VBZ	O-communication	0		communication	
+42	.	.	.	O	0			
+1	He	he	PRP	O	0			
+2	asks	ask	VBZ	O-communication	0		communication	
+3	his	his	PRP$	O	0			
+4	parents	parent	NNS	O-PERSON	0		PERSON	
+5	not	not	RB	O	0			
+6	to	to	TO	O	0			
+7	accept	accept	VB	O-cognition	0		cognition	
+8	``	``	``	O	0			
+9	any	any	DT	O	0			
+10	meager	meager	JJ	O	0			
+11	compensation	compensation	NN	O-COMMUNICATION	0		COMMUNICATION	
+12	from	from	IN	O	0			
+13	the	the	DT	O	0			
+14	same	same	JJ	O	0			
+15	people	person	NNS	O-PERSON	0		PERSON	
+16	who	who	WP	O	0			
+17	effectively	effectively	RB	O	0			
+18	hit	hit	VBD	O-body	0		body	
+19	the	the	DT	O	0			
+20	last	last	JJ	O	0			
+21	nail	nail	NN	O-BODY	0		BODY	
+22	in	in	IN	O	0			
+23	my	my	PRP$	O	0			
+24	coffin	coffin	NN	O-ARTIFACT	0		ARTIFACT	
+25	with	with	IN	O	0			
+26	the	the	DT	O	0			
+27	recent	recent	JJ	O	0			
+28	aerial	aerial	JJ	O	0			
+29	campaign	campaign	NN	O-LOCATION	0		LOCATION	
+30	in	in	IN	O	0			
+31	Iraq	iraq	NNP	O-LOCATION	0		LOCATION	
+32	.	.	.	O	0			
+1	''	''	''	O	0			
+2	The	the	DT	O	0			
+3	prisoner	prisoner	NN	O-PERSON	0		PERSON	
+4	also	also	RB	O	0			
+5	appeals	appeal	NNS	O-COMMUNICATION	0		COMMUNICATION	
+6	to	to	TO	O	0			
+7	``	``	``	O	0			
+8	my	my	PRP$	O	0			
+9	brother	brother	NN	B-PERSON	0		PERSON	
+10	John	john	NNP	Ī	9	_		
+11	,	,	,	O	0			
+12	who	who	WP	O	0			
+13	is	be	VBZ	O-stative	0		stative	
+14	a	a	DT	O	0			
+15	member	member	NN	O-PERSON	0		PERSON	
+16	of	of	IN	O	0			
+17	the	the	DT	O	0			
+18	U.S.	u.s.	NNP	B-GROUP	0		GROUP	
+19	Air	air	NNP	Ī	18	_		
+20	Force	force	NNP	Ī	19	_		
+21	,	,	,	O	0			
+22	''	''	''	O	0			
+23	to	to	TO	O	0			
+24	``	``	``	O	0			
+25	think	think	VB	O-cognition	0		cognition	
+26	about	about	IN	O	0			
+27	what	what	WP	O	0			
+28	you	you	PRP	O	0			
+29	are	be	VBP	O-`a	0		`a	
+30	doing	do	VBG	O-stative	0		stative	
+31	.	.	.	O	0			
+1	''	''	''	O	0			
+2	``	``	``	O	0			
+3	I	i	PRP	O	0			
+4	wish	wish	VBP	O-cognition	0		cognition	
+5	I	i	PRP	O	0			
+6	had	have	VBD	O-stative	0		stative	
+7	more	more	JJR	O	0			
+8	time	time	NN	O-TIME	0		TIME	
+9	,	,	,	O	0			
+10	''	''	''	O	0			
+11	he	he	PRP	O	0			
+12	says	say	VBZ	O-communication	0		communication	
+13	.	.	.	O	0			
+1	``	``	``	O	0			
+2	I	i	PRP	O	0			
+3	wish	wish	VBP	O-cognition	0		cognition	
+4	I	i	PRP	O	0			
+5	could	could	MD	O	0			
+6	have	have	VB	O-stative	0		stative	
+7	the	the	DT	O	0			
+8	hope	hope	NN	O-COGNITION	0		COGNITION	
+9	for	for	IN	O	0			
+10	freedom	freedom	NN	O-COGNITION	0		COGNITION	
+11	to	to	TO	O	0			
+12	see	see	VB	O-perception	0		perception	
+13	my	my	PRP$	O	0			
+14	family	family	NN	O-GROUP	0		GROUP	
+15	once	once	RB	B	0			
+16	again	again	RB	Ī	15	_		
+17	,	,	,	O	0			
+18	but	but	CC	O	0			
+19	that	that	DT	O	0			
+20	ship	ship	NN	O-GROUP	0		GROUP	
+21	has	have	VBZ	O-`a	0		`a	
+22	sailed	sail	VBN	O-social	0		social	
+23	.	.	.	O	0			
+1	I	i	PRP	O	0			
+2	guess	guess	VBP	O-cognition	0		cognition	
+3	all	all	DT	O	0			
+4	in	in	IN	O	0			
+5	all	all	DT	O	0			
+6	,	,	,	O	0			
+7	I	i	PRP	O	0			
+8	wish	wish	VBP	O-emotion	0		emotion	
+9	I	i	PRP	O	0			
+10	wasn	wasn	NN	O-STATE	0		STATE	
+11	'	'	POS	O	0			
+12	t	t	NN	O-COGNITION	0		COGNITION	
+13	an	an	DT	O	0			
+14	American	american	JJ	O	0			
+15	.	.	.	O	0			
+1	''	''	''	O	0			
+2	The	the	DT	O	0			
+3	masked	mask	VBN	O-perception	0		perception	
+4	man	man	NN	O-PERSON	0		PERSON	
+5	then	then	RB	O	0			
+6	identifies	identify	VBZ	O-cognition	0		cognition	
+7	the	the	DT	O	0			
+8	prisoner	prisoner	NN	O-PERSON	0		PERSON	
+9	as	as	IN	O	0			
+10	``	``	``	O	0			
+11	James	james	NNP	B-PERSON	0		PERSON	
+12	Wright	wright	NNP	Ī	11	_		
+13	Foley	foley	NNP	Ī	12	_		
+14	,	,	,	O	0			
+15	an	an	DT	O	0			
+16	American	american	JJ	O	0			
+17	citizen	citizen	NN	O-PERSON	0		PERSON	
+18	of	of	IN	O	0			
+19	your	your	PRP$	O	0			
+20	country	country	NN	O-GROUP	0		GROUP	
+21	.	.	.	O	0			
+1	''	''	''	O	0			
+2	He	he	PRP	O	0			
+3	then	then	RB	O	0			
+4	reaches	reach	VBZ	B-stative	0		stative	
+5	down	down	RP	Ī	4	_		
+6	with	with	IN	O	0			
+7	a	a	DT	O	0			
+8	large	large	JJ	O	0			
+9	knife	knife	NN	O-ARTIFACT	0		ARTIFACT	
+10	and	and	CC	O	0			
+11	begins	begin	VBZ	O-stative	0		stative	
+12	the	the	DT	O	0			
+13	apparent	apparent	JJ	O	0			
+14	beheading	beheading	NN	O-ACT	0		ACT	
+15	of	of	IN	O	0			
+16	the	the	DT	O	0			
+17	prisoner	prisoner	NN	O-PERSON	0		PERSON	
+18	;	;	:	O	0			
+19	the	the	DT	O	0			
+20	screen	screen	NN	O-ARTIFACT	0		ARTIFACT	
+21	fades	fade	VBZ	B-change	0		change	
+22	to	to	TO	Ī	21	_		
+23	black	black	JJ	Ī	22	_		
+24	and	and	CC	O	0			
+25	the	the	DT	O	0			
+26	next	next	JJ	O	0			
+27	image	image	NN	O-ARTIFACT	0		ARTIFACT	
+28	is	be	VBZ	O-stative	0		stative	
+29	of	of	IN	O	0			
+30	a	a	DT	O	0			
+31	body	body	NN	O-BODY	0		BODY	
+32	with	with	IN	O	0			
+33	a	a	DT	O	0			
+34	head	head	NN	O-ARTIFACT	0		ARTIFACT	
+35	placed	place	VBN	O-stative	0		stative	
+36	upon	upon	IN	O	0			
+37	its	it	PRP$	O	0			
+38	back	back	NN	O-BODY	0		BODY	
+39	.	.	.	O	0			
+1	The	the	DT	O	0			
+2	masked	mask	VBN	O-social	0		social	
+3	man	man	NN	O-PERSON	0		PERSON	
+4	then	then	RB	O	0			
+5	appears	appear	VBZ	O-cognition	0		cognition	
+6	with	with	IN	O	0			
+7	another	another	DT	O	0			
+8	prisoner	prisoner	NN	O-PERSON	0		PERSON	
+9	,	,	,	O	0			
+10	identified	identify	VBN	O-cognition	0		cognition	
+11	as	as	IN	O	0			
+12	Sotloff	sotloff	NNP	O-GROUP	0		GROUP	
+13	,	,	,	O	0			
+14	in	in	IN	O	0			
+15	a	a	DT	O	0			
+16	similar	similar	JJ	O	0			
+17	kneeling	kneel	VBG	O-stative	0		stative	
+18	position	position	NN	O-COGNITION	0		COGNITION	
+19	.	.	.	O	0			
+1	Foley	foley	NNP	O-PERSON	0		PERSON	
+2	reported	report	VBD	O-communication	0		communication	
+3	from	from	IN	O	0			
+4	some	some	DT	O	0			
+5	of	of	IN	O	0			
+6	the	the	DT	O	0			
+7	most	most	RBS	O	0			
+8	dangerous	dangerous	JJ	O	0			
+9	recent	recent	JJ	O	0			
+10	crises	crisis	NNS	O-STATE	0		STATE	
+11	and	and	CC	O	0			
+12	was	be	VBD	O-`a	0		`a	
+13	imprisoned	imprison	VBN	O-social	0		social	
+14	for	for	IN	O	0			
+15	44	44	CD	O	0			
+16	days	days	NNS	O-TIME	0		TIME	
+17	in	in	IN	O	0			
+18	Libya	libya	NNP	O-LOCATION	0		LOCATION	
+19	in	in	IN	O	0			
+20	2011	2011	CD	O	0			
+21	by	by	IN	O	0			
+22	forces	force	NNS	O-COGNITION	0		COGNITION	
+23	loyal	loyal	JJ	O	0			
+24	to	to	TO	O	0			
+25	deposed	depose	VBN	O-social	0		social	
+26	leader	leader	NN	O-PERSON	0		PERSON	
+27	Moammar	moammar	NNP	B-PERSON	0		PERSON	
+28	Gaddafi	gaddafi	NNP	Ī	27	_		
+29	.	.	.	O	0			
+1	According	accord	VBG	O-social	0		social	
+2	to	to	TO	O	0			
+3	GlobalPost	globalpost	NNP	O-GROUP	0		GROUP	
+4	,	,	,	O	0			
+5	two	two	CD	O	0			
+6	eyewitnesses	eyewitness	NNS	O-PERSON	0		PERSON	
+7	saw	see	VBD	O-perception	0		perception	
+8	his	his	PRP$	O	0			
+9	interception	interception	NN	O-ACT	0		ACT	
+10	by	by	IN	O	0			
+11	a	a	DT	O	0			
+12	group	group	NN	O-GROUP	0		GROUP	
+13	of	of	IN	O	0			
+14	armed	armed	JJ	O	0			
+15	men	men	NNS	O-PERSON	0		PERSON	
+16	in	in	IN	O	0			
+17	a	a	DT	O	0			
+18	silver-colored	silver-colored	JJ	O	0			
+19	van	van	NN	O-GROUP	0		GROUP	
+20	on	on	IN	O	0			
+21	a	a	DT	O	0			
+22	road	road	NN	O-LOCATION	0		LOCATION	
+23	near	near	IN	O	0			
+24	the	the	DT	O	0			
+25	town	town	NN	O-LOCATION	0		LOCATION	
+26	of	of	IN	O	0			
+27	Taftanaz	taftanaz	NNP	O-GROUP	0		GROUP	
+28	in	in	IN	O	0			
+29	northern	northern	JJ	O	0			
+30	Syria	syria	NNP	O-LOCATION	0		LOCATION	
+31	on	on	IN	O	0			
+32	Nov.	nov.	NNP	B-LOCATION	0		LOCATION	
+33	22	22	CD	Ī	32	_		
+34	,	,	,	O	0			
+35	2012	2012	CD	O	0			
+36	.	.	.	O	0			
+1	Since	since	IN	O	0			
+2	then	then	RB	O	0			
+3	,	,	,	O	0			
+4	GlobalPost	globalpost	NNP	O-PERSON	0		PERSON	
+5	``	``	``	O	0			
+6	has	have	VBZ	O-`a	0		`a	
+7	mounted	mount	VBN	O-change	0		change	
+8	an	an	DT	O	0			
+9	extensive	extensive	JJ	O	0			
+10	international	international	JJ	O	0			
+11	investigation	investigation	NN	O-COGNITION	0		COGNITION	
+12	.	.	.	O	0			
+1	.	.	.	O	0			
+1	.	.	.	O	0			
+1	to	to	TO	O	0			
+2	determine	determine	VB	O-cognition	0		cognition	
+3	who	who	WP	O	0			
+4	kidnapped	kidnap	VBD	O-change	0		change	
+5	Foley	foley	NNP	O-PERSON	0		PERSON	
+6	and	and	CC	O	0			
+7	where	where	WRB	O	0			
+8	he	he	PRP	O	0			
+9	was	be	VBD	O-`a	0		`a	
+10	being	be	VBG	O-`a	0		`a	
+11	held	hold	VBN	O-social	0		social	
+12	,	,	,	O	0			
+13	''	''	''	O	0			
+14	GlobalPost	globalpost	NNP	O-PERSON	0		PERSON	
+15	said	say	VBD	O-communication	0		communication	
+16	in	in	IN	O	0			
+17	an	an	DT	O	0			
+18	article	article	NN	O-ARTIFACT	0		ARTIFACT	
+19	on	on	IN	O	0			
+20	its	it	PRP$	O	0			
+21	Web	web	NN	B-COMMUNICATION	0		COMMUNICATION	
+22	site	site	NN	Ī	21	_		
+23	late	late	JJ	O	0			
+24	Tuesday	tuesday	NNP	O-TIME	0		TIME	
+25	.	.	.	O	0			
+1	Julie	julie	NNP	B-PERSON	0		PERSON	
+2	Tate	tate	NNP	Ī	1	_		
+3	and	and	CC	O	0			
+4	Dan	dan	NNP	B-GROUP	0		GROUP	
+5	Lamothe	lamothe	NNP	Ī	4	_		
+6	in	in	IN	O	0			
+7	Washington	washington	NNP	O-LOCATION	0		LOCATION	
+8	,	,	,	O	0			
+9	Griff	griff	NNP	B-LOCATION	0		LOCATION	
+10	Witte	witte	NNP	Ī	9	_		
+11	in	in	IN	O	0			
+12	London	london	NNP	O-LOCATION	0		LOCATION	
+13	and	and	CC	O	0			
+14	Souad	souad	NNP	B-GROUP	0		GROUP	
+15	Mekhennet	mekhennet	NNP	Ī	14	_		
+16	in	in	IN	O	0			
+17	Frankfurt	frankfurt	NNP	O-LOCATION	0		LOCATION	
+18	,	,	,	O	0			
+19	Germany	germany	NNP	O-LOCATION	0		LOCATION	
+20	,	,	,	O	0			

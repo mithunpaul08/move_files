@@ -1,0 +1,19 @@
+1	The	the	DT	O	0			
+2	Communist	communist	NNP	B-GROUP	0		GROUP	
+3	Party	party	NNP	Ī	2	_		
+4	of	of	IN	O	0			
+5	the	the	DT	O	0			
+6	Soviet	soviet	NNP	B-GROUP	0		GROUP	
+7	Union	union	NNP	Ī	6	_		
+8	was	be	VBD	O-stative	0		stative	
+9	the	the	DT	O	0			
+10	ruling	rule	VBG	O-social	0		social	
+11	party	party	NN	O-EVENT	0		EVENT	
+12	of	of	IN	O	0			
+13	the	the	DT	O	0			
+14	Union	union	NNP	O-GROUP	0		GROUP	
+15	of	of	IN	O	0			
+16	Soviet	soviet	NNP	B-GROUP	0		GROUP	
+17	Socialist	socialist	NNP	Ī	16	_		
+18	Republics	republics	NNPS	Ī	17	_		
+19	.	.	.	O	0			

@@ -1,0 +1,35 @@
+1	The	the	DT	O	0			
+2	Communist	communist	NNP	B-GROUP	0		GROUP	
+3	Party	party	NNP	Ī	2	_		
+4	of	of	IN	O	0			
+5	the	the	DT	O	0			
+6	Soviet	soviet	NNP	B-LOCATION	0		LOCATION	
+7	Union	union	NNP	Ī	6	_		
+8	,	,	,	O	0			
+9	abbreviated	abbreviate	VBD	O-change	0		change	
+10	in	in	IN	O	0			
+11	English	english	NNP	O-COMMUNICATION	0		COMMUNICATION	
+12	as	as	IN	O	0			
+13	CPSU	cpsu	NNP	O-LOCATION	0		LOCATION	
+14	,	,	,	O	0			
+15	was	be	VBD	O-stative	0		stative	
+16	the	the	DT	O	0			
+17	founding	founding	NN	O-ACT	0		ACT	
+18	and	and	CC	O	0			
+19	ruling	rule	VBG	O-social	0		social	
+20	political	political	JJ	B	0			
+21	party	party	NN	Ī	20	_		
+22	of	of	IN	O	0			
+23	the	the	DT	O	0			
+24	Union	union	NNP	O-GROUP	0		GROUP	
+25	of	of	IN	O	0			
+26	Soviet	soviet	NNP	B-GROUP	0		GROUP	
+27	Socialist	socialist	NNP	Ī	26	_		
+28	Republics	republics	NNPS	Ī	27	_		
+29	-LRB-	-lrb-	-LRB-	O	0			
+30	USSR	ussr	NN	O-LOCATION	0		LOCATION	
+31	or	or	CC	O	0			
+32	Soviet	soviet	NNP	B-GROUP	0		GROUP	
+33	Union	union	NNP	Ī	32	_		
+34	-RRB-	-rrb-	-RRB-	O	0			
+35	.	.	.	O	0			
