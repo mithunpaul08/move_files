@@ -55,8 +55,6 @@ if __name__=="__main__":
         #data_id_predtags=each_pos_file_split[4]
         #data_id_predtags_split=data_id_predtags.split(".")
         data_id=each_pos_file_split[4]
-        print(data_id)
-        sys.exit(1)
 
         if int(data_id) in list_of_skipped_files:
             print("found in list")
